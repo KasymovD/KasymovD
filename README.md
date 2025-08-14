@@ -1,5 +1,12 @@
 <!-- <h1 align="center">Hi!  Dustin (施騰達) — AI / Computer Vision Engineer</h1> -->
 
+## 📊 Statistics
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=KasymovD&show_icons=true&theme=transparent" height="150" /> -->
+  <img src="https://streak-stats.demolab.com?user=<KasymovD>&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasymovD&layout=compact&theme=transparent&hide=css,html" height="150" />
+</p>
+
 <p align="center">
 Build AOI systems and CV products: real time, prom. Cameras, robot shirts, Python/Qt, Yolov8.
 </p>
@@ -44,10 +51,3 @@ Build AOI systems and CV products: real time, prom. Cameras, robot shirts, Pytho
 ![ESP32](https://img.shields.io/badge/-ESP32-000?style=for-the-badge&logo=espressif)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
 ![FPGA](https://img.shields.io/badge/-Intel%20FPGA-000?style=for-the-badge&logo=intel)
-
-## 📊 Statistics
-<p align="left">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=KasymovD&show_icons=true&theme=transparent" height="150" /> -->
-  <img src="https://streak-stats.demolab.com?user=<KasymovD>&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasymovD&layout=compact&theme=transparent&hide=css,html" height="150" />
-</p>
