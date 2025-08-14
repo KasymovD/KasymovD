@@ -26,7 +26,7 @@ Build AOI systems and CV products: real time, prom. Cameras, robot shirts, Pytho
 **Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-000?style=for-the-badge&logo=ultralytics)
+![YOLOv](https://img.shields.io/badge/-YOLOv-000?style=for-the-badge&logo=ultralytics)
 
 **Backend / Dev**
 
