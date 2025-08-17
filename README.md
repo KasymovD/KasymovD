@@ -51,3 +51,5 @@ Build AOI systems and CV products: real time, prom. Cameras, robot shirts, Pytho
 ![ESP32](https://img.shields.io/badge/-ESP32-000?style=for-the-badge&logo=espressif)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
 ![FPGA](https://img.shields.io/badge/-Intel%20FPGA-000?style=for-the-badge&logo=intel)
+
+![2D Convolution](assets/demo.gif)
